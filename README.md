@@ -13,5 +13,6 @@
 <li><a target="_self" href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself" data-test-app-aware-link="">It's Only A Hacker If It's Linus Himself</a></li>
 <li><a target="_self" href="https://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/">Microsoft: An Open Source Windows Is 'Definitely Possible'</a></li>
 <li><a target="_self" href="https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/" data-test-app-aware-link="">MINIX: ?Intel's hidden in-chip operating system</a></li>
-<li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li></ul>
+<li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li>
+<li><a href="https://learn.microsoft.com/en-us/dotnet/standard/native-interop/com-callable-wrapper">COM Callable Wrapper</a></li>
 </ul>
