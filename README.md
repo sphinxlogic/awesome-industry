@@ -16,5 +16,6 @@
 <li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li>
 <li><a href="https://www.zdnet.com/article/microsoft-turns-over-all-win7-and-server-source-code-to-russias-new-kgb/">Microsoft turns over all Win7 and server source code to Russia's new KGB</a></li> 
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Taligent">Taligent</a></li>
 <li><a href="https://learn.microsoft.com/en-us/dotnet/standard/native-interop/com-callable-wrapper">COM Callable Wrapper</a></li>
 </ul>
